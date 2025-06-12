@@ -26,7 +26,7 @@
 - made by zorvithon leo and caladrius bd team
 - our telegram https://t.me/CaladriusBd
 
- ![Screenshot 2025-06-13 014327](https://github.com/user-attachments/assets/51d10792-3f82-477f-9c94-ef1377864c47)
+
 
 
 
