@@ -3,7 +3,7 @@
 
 
 ### Spyware Client
-- 🔥 Total stealth: auto-hide, anti-detection, obfuscated payloads  
+- 🔥 Total stealth: auto-hide, anti-detection, obfuscated payloads, 0 day exploit, 10x more powerfull than other spywares  
 - 🎯 Zero-day exploit loader for silent privilege escalation 
 - 🎥 Silent camera & video capture + mic & call recording bypassing Android security layers  
 - 📱 Full filesystem read/write access + keylogger + SMS grabber + contact & Facebook data steal  
