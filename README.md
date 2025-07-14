@@ -24,7 +24,8 @@
 ### About US
 - We are bangladeshi blackhat hacker
 - caladrius-spyware is owned by caladriusbd blackhat team
-- made by zorvithon leo and caladrius bd team
+- made by MrPayloadC
+ and caladrius bd team
 - our telegram https://t.me/CaladriusBd
 
 
